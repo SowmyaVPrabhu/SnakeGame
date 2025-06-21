@@ -27,8 +27,8 @@ A classic **Snake Game** built using **Java Swing**, featuring smooth keyboard c
    ```bash
    javac SnakeGame.java GamePanel.java
 
-3.**Run the game**
-  ```bash
-  java SnakeGame
+3. **Run the game**
+   ```bash
+   java SnakeGame
 
 
