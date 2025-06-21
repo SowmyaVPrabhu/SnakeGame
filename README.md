@@ -1,5 +1,5 @@
 # SnakeGame
-Classic Snake Game built in Java using Swing. 
+A classic **Snake Game** built using **Java Swing**, featuring smooth keyboard controls, live scoring, and game-over logic. Great for beginners learning GUI development in Java!
 
 **Features**
  Clean GUI built with Java Swing
@@ -23,10 +23,8 @@ Classic Snake Game built in Java using Swing.
    ```bash
    git clone https://github.com/your-username/java-snake-game.git
    cd java-snake-game
-2.Compile
-  ```bash
-   javac SnakeGame.java GamePanel.java
-3.Run
-  ```bash
+  2.Compile
+    javac SnakeGame.java GamePanel.java
+  3.Run
     java SnakeGame
 
