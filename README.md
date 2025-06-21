@@ -23,9 +23,12 @@ A classic **Snake Game** built using **Java Swing**, featuring smooth keyboard c
    ```bash
    git clone https://github.com/your-username/java-snake-game.git
    cd java-snake-game
-2.Compile the code
-javac SnakeGame.java GamePanel.java
-3.Run the game
-java SnakeGame
+2. **Compile the code**
+   ```bash
+   javac SnakeGame.java GamePanel.java
+
+3.**Run the game**
+  ```bash
+  java SnakeGame
 
 
