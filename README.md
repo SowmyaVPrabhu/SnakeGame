@@ -17,14 +17,15 @@ A classic **Snake Game** built using **Java Swing**, featuring smooth keyboard c
 
 
 
- **How to Run**
+ ## 🚀 How to Run
 
-1. Clone the repository:
+1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/java-snake-game.git
    cd java-snake-game
-  2.Compile
-    javac SnakeGame.java GamePanel.java
-  3.Run
-    java SnakeGame
+2.Compile the code
+javac SnakeGame.java GamePanel.java
+3.Run the game
+java SnakeGame
+
 
